@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "228721430414",
+    "firebase_url": "https://srca-a6c3c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "srca-a6c3c",
+    "storage_bucket": "srca-a6c3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228721430414:android:6a537e0df30c5880869edf",
+        "android_client_info": {
+          "package_name": "com.example.srca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnQyLr78Vy3xYP00oM-HN5RVo3K0o3C68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
